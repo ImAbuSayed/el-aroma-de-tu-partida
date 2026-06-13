@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - El aroma de tu partida
+
+This log tracks the cryptographic history and versioning for the song **El aroma de tu partida** (el-aroma-de-tu-partida).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-14T04:37:35.387201 | `v1` | `4700086351462b5de63876150ea00d3466e589ac1c3d31136b4ec3391ececdec` | `5d4033781f1d48724753a5e7f98d155105d3d32aa7f51ddeffcd9652e0c922de` | `2026-06-14_el-aroma-de-tu-partida-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
