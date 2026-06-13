@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/el-aroma-de-tu-partida/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: El aroma de tu partida](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-aroma-de-tu-partida/) |
+| **Get License** | [Official Music Licensing for El aroma de tu partida](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-aroma-de-tu-partida/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, el aroma de tu partida todavía me quema
+> Dejaste tu perfume en mi cama y eso es un problema
+> I'm addicted to your vibe, ya no hay quien me frene
+> Mami, tú eres la dueña de to' lo que me conviene
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
